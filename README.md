@@ -1,6 +1,7 @@
 Goal 194 
 Team: interesting-tern
 
+- "Candida"
 
 The goal of this project is to create Postalicious, a loose clone of the Postman extension for Google Chrome. It is an app that lets you send custom HTTP requests to a server via a web form and displays both the request and the response messages.
 
@@ -9,20 +10,6 @@ It is an API with a GUI front end web form.
 It has a dependency called sandbox server (a simple HTTP server), which you will create using Node JS and Express.
 
 
----
-authors:
-- "tannerwelsh"
-team_size: 2
-goal_id: 194
-title: Postalicious - Demystifying HTTP
-created_at: '2017-03-06T00:52:33Z'
-labels:
-- practice
-- foundational
-published: true
-level: '1'
-redirect_from: "/goals/194"
----
 
 # Postalicious - Demystifying HTTP
 
