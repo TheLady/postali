@@ -1,0 +1,15 @@
+{
+  "name": "postalicious",
+  "version": "1.0.0",
+  "description": "this is the amazing postalicious app",
+  "main": "postalicious.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "cvh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {}
+}
