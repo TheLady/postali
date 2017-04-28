@@ -1,0 +1,15 @@
+{
+  "name": "sandbox-server",
+  "version": "1.0.0",
+  "description": "start sandbox-server",
+  "main": "sandbox-server.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "cvh",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {}
+}
